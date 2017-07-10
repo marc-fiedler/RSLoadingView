@@ -39,6 +39,12 @@ it, simply add the following line to your Podfile:
 pod "RSLoadingView"
 ```
 
+Alternatively you can install RSLoadingView via Carthage
+```
+# Load RSLoadingView
+github "marc-fiedler/RSLoadingView"
+```
+
 ## Usage
 ```swift
 import UIKit
